@@ -12,11 +12,17 @@ body{
 
     background: #03d8ad;                                                                                                                                                
     font-size: larger;
-    font-family: "IRANSansWeb", sans-serif;                                                                                                                            
+                                                                                                                             
 }                                                                                                                                                                       
 .center {                                                                                                                                                               
     display: block ;
-    padding: 3%;                                                                                                                                                        
+    padding: 3%; 
+    }/*class*/
+    .center span{
+    display: block;
+    font-size: 16px;
+    margin: 0 3% 0 auto; 
+        
 }/*class*/                                                                                                                                                              
 .center span:nth-child(1){
     display: block;
@@ -33,6 +39,7 @@ body{
  }/*class_style*/ 
  <!-- -->
  @font-face { 
-   font-family: 'IRANSansWeb';
+    src: url('fonts/ttf/IRANSansWeb.ttf');
+}
                                                                                                                               }
                                                                                                                                                                                                
