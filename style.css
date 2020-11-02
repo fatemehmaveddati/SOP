@@ -1,45 +1,33 @@
- *{ padding: 0;                                                                                                                                                         
-    margin: 0;                                                                                                                                                          
-    box-sizing: border-box;                                                                                                                                               
-}
-body{                                                                                                                                                                   
-    position: fixed;                                                                                                                                                    
-    direction: ltr;                                                                                                                                                     
-    width:100%;                                                                                                                                                         
-    height: 100%;                                                                                                                                                       
-    margin: 0;
-    padding: 0;
-
-    background: #03d8ad;                                                                                                                                                
-    font-size: larger;
-                                                                                                                             
-}                                                                                                                                                                       
-.center {                                                                                                                                                               
-    display: block ;
-    padding: 3%; 
-    }/*class*/
-    .center span{
-    display: block;
-    font-size: 16px;
-    margin: 0 3% 0 auto; 
-        
-}/*class*/                                                                                                                                                              
-.center span:nth-child(1){
-    display: block;
-    font-size: 25px;                                                                                                                                                    
-    margin: 0 45% 0 auto;
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-
-}/*class_style*/                                                                                                                                                        
-.center span:nth-child(2){                                                                                                                                              
-    display: block;
-    font-size: 16px;
-    margin: 3% 3% 3% 0;
- }/*class_style*/ 
- <!-- -->
- @font-face { 
+  *{
+    box-sizing: border-box;
+   }                                                                                                                                                                       
+@font-face {
+    font-family: 'IRANSansWeb';                                                                                                                                         
     src: url('fonts/ttf/IRANSansWeb.ttf');
+    }                                                                                                                                                                                                                                                                                        
+body {
+    direction: rtl;                                                                                                                                                     
+    width: 100%;                                                                                                                                                        
+    background:#fbba9b;                                                                                                                                                 
+    font-size: medium;                                                                                                                                                  
+    font-family: 'IRANSansWeb';                                                                                                                                         
+    color:#000000;                                                                                                                                                      
+    margin:0;                                                                                                                                                         
+
 }
-                                                                                                                              }
-                                                                                                                                                                                               
+.txt {
+    direction: rtl;
+    margin: 1% 6% 6% 6%;                                                                                                                                                
+    background: #f5f5f599;
+    padding: 0% 3% 3% 5%
+ }                                                                                                                                                                                                                                                                                                                                                
+
+h1 {
+    text-align:center;
+    color: #000000;                                                                                                                                                     
+    padding: 2% 2% 2% 2%;
+    display: block
+    max-width: 1600px;                                                                                                                                                  
+    width: 22%;                                                                                                                                                         
+    margin: 18px auto;  
+}
