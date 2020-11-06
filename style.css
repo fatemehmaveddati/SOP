@@ -2,15 +2,15 @@
     box-sizing: border-box;
    }                                                                                                                                                                       
 @font-face {
-      font-family: 'IRANSansWeb';                                                                                                                                     
-    src: url('fonts/ttf/IRANSansWeb.ttf');
+      font-family: 'en';                                                                                                                                     
+    src: url('fonts/ttf/en.ttf');
     }                                                                                                                                                                                                                                                                                        
 body {
     direction: ltr;                                                                                                                                                     
     width: 100%;                                                                                                                                                        
     background:#fbba9b;                                                                                                                                                 
     font-size: medium;                                                                                                                                                  
-    font-family: 'IRANSansWeb';                                                                                                                                         
+    font-family: 'en';                                                                                                                                         
     color:#000000;                                                                                                                                                      
     margin:0;                                                                                                                                                         
 
