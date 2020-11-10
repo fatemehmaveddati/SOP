@@ -14,11 +14,13 @@ body{
     direction: ltr;
     margin: 1% 6% 6% 6%;                                                                                                                                            background: #000000;
     padding: 0% 3% 3% 5%
- }                                                                                                                                                                                                                                                                                                                              header::before{
-color:;
+ }
+
+header::before{
+color:#000000;
 content:'\002329;
 }
 header::after::{
-color:;
+color:#000000;
 content:'\00232A;
 }
