@@ -12,8 +12,8 @@ body{
 .txt {
 
     direction: ltr;
-    margin: 1% 6% 6% 6%;                                                                                                                                            background: #000000;
-    padding: 0% 3% 3% 5%
+      background: #000000;
+    
  }
 
 header::before{
