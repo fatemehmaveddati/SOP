@@ -3,7 +3,7 @@
     box-sizing: border-box;
    }                                                                                                                                                                       
 @font-face {
-      font-family: 'ENGLISHSansWeb';                                                                                                                                     
+      font-family: 'IRANSansWeb';                                                                                                                                     
     src: url('fonts/ttf/ENGLISHSansWeb.ttf');
     }                                                                                                                                                                                                                                                                                        
 body {
@@ -11,7 +11,7 @@ body {
     width: 100%;                                                                                                                                                        
     background:#fbba9b;                                                                                                                                                 
     font-size: medium;                                                                                                                                                  
-    font-family: 'ENGLISHSansWeb';                                                                                                                                         
+    font-family: 'IRANSansWeb';                                                                                                                                         
     color:#000000;                                                                                                                                                      
     margin:0;                                                                                                                                                         
 
