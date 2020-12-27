@@ -1,7 +1,5 @@
 
-*{
-    box-sizing: border-box;
-   }                                                                                                                                                                       
+*{                                                                                                                                                                       
 @font-face {
       font-family: 'ENGLISHSansWeb';                                                                                                                                     
     src: url('fonts/ttf/ENGLISHSansWeb.ttf');
